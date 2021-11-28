@@ -1,5 +1,7 @@
 channels:
 - currentCSV: runtime-component-operator.v0.7.0
   name: beta
-defaultChannel: beta
+- currentCSV: runtime-component.v0.8.0
+  name: beta2
+defaultChannel: beta2
 packageName: runtime-component-operator
